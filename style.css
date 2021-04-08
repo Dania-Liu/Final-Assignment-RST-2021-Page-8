@@ -1,0 +1,47 @@
+#purple-background {
+  background-color: purple;
+}
+
+#seventh-picture {
+  display: none;
+  height: 30%;
+  width: 30%;
+}
+
+#seventh-gold {
+  height: 40%;
+  width: 40%;
+  float: right;
+}
+
+#white-heading {
+  text-align: center;
+  font-family: cursive;
+  color: black;
+  font-size: 200%;
+  background-color: white;
+}
+
+.light-text {
+  font-family: monospace;
+  color: aliceblue;
+}
+
+.question {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 120%;
+}
+
+.answer {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: inline;
+}
+
+.centre {
+  text-align: center;
+}
+
+#claim {
+  background-color: white;
+  color: black;
+}
